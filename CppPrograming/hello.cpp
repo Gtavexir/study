@@ -4,6 +4,10 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World!\n";
+    char var;
+
+    var = 'a';
+
+    cout << var << endl;
     return 0;
 }
